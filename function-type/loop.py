@@ -1,7 +1,7 @@
 
-a = 0 
+a = 12 
 
 for number in range(3):
-	a += 5
+	a += 1
 
 print(a)
