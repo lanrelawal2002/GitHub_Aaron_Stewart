@@ -5,4 +5,4 @@ columns = 12
 for digit in range(3):
 	columns += 1
 
-print(columns)
+print(columns)  # added one final comment
