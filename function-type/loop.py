@@ -1,7 +1,7 @@
 
 a = 12 
 
-for number in range(3):
-	a += 1
+for digit in range(3):
+	columns += 1
 
 print(a)
